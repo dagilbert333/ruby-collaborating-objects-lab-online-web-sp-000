@@ -11,7 +11,7 @@ class Artist
     @@all
   end
   
-  def self.create 
+  def self.create(name) 
     artist = self.new 
     artist.name = name
     artist
