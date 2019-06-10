@@ -13,7 +13,9 @@ class Song
     song
   end
   
-  def 
+  def artist_name=(name)
+    
+  end
   
   
 end
