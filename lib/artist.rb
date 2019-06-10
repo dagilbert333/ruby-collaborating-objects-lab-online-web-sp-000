@@ -37,8 +37,4 @@ class Artist
     songs.each { |song| puts song.name}
   end
   
-  def songs
-    @songs
-  end
-  
 end
