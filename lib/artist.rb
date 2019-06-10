@@ -12,6 +12,7 @@ class Artist
   end
   
   def self.create 
+    artist = self.new 
     
   end
   
